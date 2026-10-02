@@ -1,0 +1,3 @@
+[build]
+  publish = "."                      # сайт лежит в корне (index.html)
+  functions = "netlify/functions"    # папка с серверными функциями
